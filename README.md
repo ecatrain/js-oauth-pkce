@@ -1,2 +1,2 @@
 # js-oauth-pkce
-Vanilla JS OAuth 2.0 Authorization Code with PKCE
+Vanilla JS implementation of OAuth 2.0 Authorization Code flow with PKCE
